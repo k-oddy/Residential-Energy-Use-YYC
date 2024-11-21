@@ -13,3 +13,6 @@ https://data.calgary.ca/Base-Maps/Community-District-Boundaries/surr-xmvs/about_
 
 Corporate Energy Consumption
 https://data.calgary.ca/Environment/Corporate-Energy-Consumption/crbp-innf/about_data
+
+Urban Heat Raster Data
+https://data.calgary.ca/Environment/Urban-Heat-Raster-Data/bj46-u5ai/data
